@@ -13,7 +13,6 @@ Ich bin Noah aka. Pandadoxo! <br>
 <br>
 Ich bin Developer für den Streamer [Melvin501](https://twitch.tv/melvin501) und seinem Netzwerk: Melvin501.de <br>
 Komm gerne auf unseren Discord, falls du mehr hierüber erfahren möchtest! <br><br>
-<img src="https://melvin501.de/img/background_dark.png" width=500px> <br><br>
 Mehr gibts hier leider nicht mehr zu sehen <img src="https://cdn.7tv.app/emote/60d431e38090e67e368eb5df/4x.webp" width=20px> <br>
 
 
